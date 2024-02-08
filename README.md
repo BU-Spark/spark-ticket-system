@@ -1,2 +1,2 @@
-# spark-ticket-system
-A repo to act as a ticketing system for Spark!
+# Spark! Ticketing System
+This repo is used to request compute resources from Spark!. Please see the "Issues" tab or visit buspark.io for more information.
